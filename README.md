@@ -47,7 +47,7 @@
 
 ## Running locally
 
-Built on React JS, hence has the same starting scripts involved:
+Even though this project was built on React JS, additional build commands have been added to streamline production pipeline:
 
 ### To start server:
 ```
